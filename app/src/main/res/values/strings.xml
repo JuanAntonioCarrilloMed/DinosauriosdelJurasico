@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Allosaurus:
+Se trata de uno de los dinosaurios del Jurásico más feroces, un predador bípedo que medía alrededor de 8 metros de longitud y 3 metros de altura.
+</string>
+    <string name="affirmation2">Apatosaurus:
+Estos dinosaurios cuadrúpedos, de cuello y cola largos, se consideran uno de los dinosaurios más grandes hasta ahora encontrados.
+</string>
+    <string name="affirmation3">Brachiosaurus:
+Junto con los Apatosauros, eran uno de los dinosaurios del jurásico más grandes que han habitado la tierra, llegando a medir 25 metros de largo y 13 metros de altura.
+</string>
+    <string name="affirmation4">Brontosaurio:
+Este dinosaurio es un saurópodo muy parecido al Apatosaurus, y del mismo modo que los anteriores, es considerado uno de los más grandes de la tierra.
+</string>
+    <string name="affirmation5">Camarasaurus:
+Los Camarasaurus eran dinosaurios saurópodos que caminaban a cuatro platas y eran herbívoros.
+</string>
+    <string name="affirmation6">Cetiosaurus:
+Este saurópodo medía cerca de 18 metros de largo y pesaba alrededor de 25 toneladas.
+</string>
+    <string name="affirmation7">Compsognathus:
+Se trata de uno de los dinosaurios del Jurásico más pequeños, llegando a pesar alrededor de 3 kilos.
+</string>
+    <string name="affirmation8">Cryolophosaurus:
+Conocido popularmente como Elvisaurus (comparando su cresta con el peinado de la estrella del rock, Elvis Presley), el Cryolophosaurus vivió en lo que ahora se conoce como la Antártida.
+</string>
+    <string name="affirmation9">Dicraeosaurus:
+Estos dinosaurios del Jurásico superior, medían hasta 20 metros de largo y 6 de alto.
+
+</string>
+    <string name="affirmation10">Dimorphodon:
+Este tipo de pterosaurio del período Jurásico más temprano medía aproximadamente 1 metro de largo, y su dieta era piscívora, aunque no se descarta que se alimentara de otros animales terrestres pequeños.
+</string>
+</resources>
